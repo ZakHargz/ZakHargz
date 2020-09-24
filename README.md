@@ -18,5 +18,5 @@ I'm a DevOps Engineer from <img src="https://image.flaticon.com/icons/svg/323/32
 ![Medium](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white)
 
 ---
-⏳ Year progress { █████████████████████▁▁▁▁▁▁▁▁▁ } 72.96 %
+⏳ Year progress { █████████████████████▁▁▁▁▁▁▁▁▁ } 73.02 %
 
