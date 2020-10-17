@@ -4,7 +4,7 @@
 ## Hey, I'm Zak :wave:
 
 I'm a DevOps Engineer from <img src="https://image.flaticon.com/icons/svg/323/323270.svg" width="13" /> **Leeds, England.**
-![Profile Views](https://komarev.com/ghpvc/?username=ZakHargz)
+<p>![Profile Views](https://komarev.com/ghpvc/?username=ZakHargz)</p>
 
 ### Technology I use:
 
