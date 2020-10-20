@@ -1,5 +1,5 @@
 
-<img align="right" width="400" height="400" src="https://zakhargreaves.xyz/img/avatar.jpg">
+<img align="right" width="400" height="400" src="https://zakhargreaves.xyz/images/zh.jpeg">
 
 ## Hey, I'm Zak :wave:
 
