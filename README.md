@@ -1,5 +1,5 @@
 
-<img align="right" width="320" height="320" src="https://zakhargreaves.xyz/images/zh.jpeg">
+<img align="right" width="320" height="320" src="https://avatars.githubusercontent.com/u/54669265?s=400&u=309c46654324a75cbe9d04c83c39bfe5354ebe9d&v=4">
 
 ### Hey, I'm Zak :wave:
 <pr><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width=480/></br></pr>
