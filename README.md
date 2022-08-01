@@ -2,7 +2,7 @@
 <img align="right" width="320" height="320" src="https://avatars.githubusercontent.com/u/54669265?s=400&u=309c46654324a75cbe9d04c83c39bfe5354ebe9d&v=4">
 
 ### Hey, I'm Zak :wave:
-<pr><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width=480/></br></pr>
+<pr><img src="https://i.imgur.com/waxVImv.png" width=480/></br></pr>
 I'm a Senior DevOps Engineer based in **Leeds, England.** <img src="https://image.flaticon.com/icons/svg/323/323270.svg" width="14" />
 
 ##### Languages I use:
