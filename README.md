@@ -1,3 +1,6 @@
+<img src="https://raw.githubusercontent.com/zakhargz/zakhargz/updated_profile/assets/banner.png" alt="Introduction Banner.." style="text-align: center; margin-bottom: 30px;" />
+
+
 Hey, I'm Zak 👋
 Senior DevOps Engineer passionate about cloud infrastructure and automation. I build scalable systems and love experimenting with cutting-edge DevOps tools.
 
